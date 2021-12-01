@@ -13,6 +13,7 @@ Debian:
   config_files:
     - zones
     - interfaces
+    - hosts
     - policy
     - rules
     - masq
